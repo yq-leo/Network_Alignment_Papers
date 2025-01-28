@@ -16,6 +16,6 @@
 - **REGAL: Representation Learning-based Graph Alignment.** (CIKM 2018) Mark Heimann, Haoming Shen, Tara Safavi, and Danai Koutra. [[paper](https://dl.acm.org/doi/10.1145/3269206.3271788)][[code](https://github.com/GemsLab/REGAL)]
 - **FINAL: Fast Attributed Network Alignmen.** (KDD 2016) Si Zhang, and Hanghang Tong. [[paper](https://dl.acm.org/doi/abs/10.1145/2939672.2939766)][[code](https://github.com/sizhang92/FINAL-KDD16)]
 - **Aligning Users Across Social Networks Using Network Embedding.** (IJCAI 2016) Li Liu, William K. Cheung, Xin Li, and Lejian Liao. [[paper](https://www.ijcai.org/Proceedings/16/Papers/254.pdf)][[code](https://github.com/ColaLL/IONE)]
-- **BIG-ALIGN: Fast Bipartite Graph Alignment.** (ICDM 2013) Danai Koutra, Hanghang Tong, and David Lubensky. [[paper](https://doi.org/10.1109/ICDM.2013.152)][[code]()]
+- **BIG-ALIGN: Fast Bipartite Graph Alignment.** (ICDM 2013) Danai Koutra, Hanghang Tong, and David Lubensky. [[paper](https://doi.org/10.1109/ICDM.2013.152)][code]
 - **Algorithms for Large, Sparse Network Alignment Problems.** (ICDM 2009) Mohsen Bayati, Margot Gerritsen, David F. Gleich, Amin Saberi, and Ying Wang. [[paper](https://doi.org/10.1109/ICDM.2009.135)][code]
 - **Global alignment of multiple protein interaction networks with application to functional orthology detection.** (PNAS 2008) Rohit Singh, Jinbo Xu, and Bonnie Berger. [[paper](https://doi.org/10.1073/pnas.0806627105)][[code](https://cb.csail.mit.edu/mna/)]
