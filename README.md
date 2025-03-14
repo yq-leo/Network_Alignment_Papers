@@ -21,7 +21,7 @@
 - **Cross-Network Embedding for Multi-Network Alignment.** (WWW 2019) Xiaokai Chu, Xinxin Fan, Di Yao, Zhihua Zhu, Jianhui Huang, and Jingping Bi. [[paper](https://doi.org/10.1145/3308558.3313499)][[code](https://github.com/ChuXiaokai/CrossMNA)]
 - **Multilevel Network Alignment.** (WWW 2019) Si Zhang, Hanghang Tong, Ross Maciejewski, and Tina Eliassi-Rad. [[paper](https://doi.org/10.1145/3308558.3313484)][[code](https://github.com/sizhang92/Moana-WWW19)]
 - **REGAL: Representation Learning-based Graph Alignment.** (CIKM 2018) Mark Heimann, Haoming Shen, Tara Safavi, and Danai Koutra. [[paper](https://dl.acm.org/doi/10.1145/3269206.3271788)][[code](https://github.com/GemsLab/REGAL)]
-- **FINAL: Fast Attributed Network Alignmen.** (KDD 2016) Si Zhang, and Hanghang Tong. [[paper](https://dl.acm.org/doi/abs/10.1145/2939672.2939766)][[code](https://github.com/sizhang92/FINAL-KDD16)]
+- **FINAL: Fast Attributed Network Alignment.** (KDD 2016) Si Zhang, and Hanghang Tong. [[paper](https://dl.acm.org/doi/abs/10.1145/2939672.2939766)][[code](https://github.com/sizhang92/FINAL-KDD16)]
 - **Aligning Users Across Social Networks Using Network Embedding.** (IJCAI 2016) Li Liu, William K. Cheung, Xin Li, and Lejian Liao. [[paper](https://www.ijcai.org/Proceedings/16/Papers/254.pdf)][[code](https://github.com/ColaLL/IONE)]
 - **BIG-ALIGN: Fast Bipartite Graph Alignment.** (ICDM 2013) Danai Koutra, Hanghang Tong, and David Lubensky. [[paper](https://doi.org/10.1109/ICDM.2013.152)][code]
 - **Algorithms for Large, Sparse Network Alignment Problems.** (ICDM 2009) Mohsen Bayati, Margot Gerritsen, David F. Gleich, Amin Saberi, and Ying Wang. [[paper](https://doi.org/10.1109/ICDM.2009.135)][code]
