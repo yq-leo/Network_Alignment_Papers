@@ -1,5 +1,6 @@
 # Network Alignment Papers
 
+- **Joint Optimal Transport and Embedding for Network Alignment.** (WWW 2025) Qi Yu, Zhichen Zeng, Yuchen Yan, Lei Ying, R. Srikant, and Hanghang Tong. [[paper](https://arxiv.org/pdf/2502.19334)][[code](https://github.com/yq-leo/JOENA-WWW25)]
 - **Hierarchical Multi-Marginal Optimal Transport for Network Alignment.** (AAAI 2024) Zhichen Zeng, Boxin Du, Si Zhang, Yinglong Xia, Zhining Liu, and Hanghang Tong. [[paper](https://doi.org/10.1609/aaai.v38i15.29605)][[code](https://github.com/zhichenz98/HOT-AAAI24)]
 - **Robust Attributed Graph Alignment via Joint Structure Learning and Optimal Transport.** (ICDE 2023) Jianheng Tang, Weiqi Zhang, Jiajin Li, Kangfei Zhao, Fugee Tsung, and Jia Li. [[paper](https://doi.org/10.1109/ICDE55515.2023.00129)][[code](https://github.com/squareRoot3/SLOTAlign)]
 - **PARROT: Position-Aware Regularized Optimal Transport for Network Alignment.** (WWW 2023) Zhichen Zeng, Si Zhang, Yinglong Xia, and Hanghang Tong. [[paper](https://dl.acm.org/doi/abs/10.1145/3543507.3583357)][[code](https://github.com/zhichenz98/PARROT-WWW23)]
